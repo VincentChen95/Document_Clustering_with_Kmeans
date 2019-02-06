@@ -10,14 +10,6 @@ In this guide, I will explain how to cluster a set of documents using Python. My
 <li> clustering the documents using the [k-means algorithm](http://en.wikipedia.org/wiki/K-means_clustering)
 <li> using [multidimensional scaling](http://en.wikipedia.org/wiki/Multidimensional_scaling) to reduce dimensionality within the corpus
 <li> plotting the clustering output using [matplotlib](http://matplotlib.org/) and [mpld3](http://mpld3.github.io/)
-
-## Contents
-<ul>
-<li>[Stopwords, stemming, and tokenization](#Stopwords,-stemming,-and-tokenizing)
-<li>[Tf-idf and document similarity](#Tf-idf-and-document-similarity)
-<li>[K-means clustering](#K-means-clustering)
-<li>[Multidimensional scaling](#Multidimensional-scaling)
-<li>[Visualizing document clusters](#Visualizing-document-clusters)
   
 ## Stopwords, stemming, and tokenizing
 I introduced this part before. So I will ignore this part.
