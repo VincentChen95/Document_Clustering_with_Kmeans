@@ -19,11 +19,11 @@ In this guide, I will explain how to cluster a set of documents using Python. My
 <li>[Multidimensional scaling](#Multidimensional-scaling)
 <li>[Visualizing document clusters](#Visualizing-document-clusters)
   
- ## Stopwords, stemming, and tokenizing
- I introduced this part before. So I will ignore this part.
+## Stopwords, stemming, and tokenizing
+I introduced this part before. So I will ignore this part.
  
- ## Tf-idf and document similarity
- <img src='http://www.jiem.org/index.php/jiem/article/viewFile/293/252/2402' align='right' style="margin-left:10px">
+## Tf-idf and document similarity
+<img src='http://www.jiem.org/index.php/jiem/article/viewFile/293/252/2402' align='right' style="margin-left:10px">
 
 Here, I define term frequency-inverse document frequency (tf-idf) vectorizer parameters and then convert the *synopses* list into a tf-idf matrix. 
 
