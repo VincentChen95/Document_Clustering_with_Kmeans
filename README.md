@@ -1,7 +1,7 @@
 # Document Clustering with Kmeans in Python
 
 ## Introduction
-In this guide, I will explain how to cluster a set of documents using Python. My motivating example is to identify the latent structures within the synopses of the top 100 films of all time (per an IMDB list). See [the original post](http://www.brandonrose.org/top100) for a more detailed discussion on the example. This guide covers:
+In this guide, I will explain how to cluster a set of documents using Python. My motivating example is to identify the latent structures within the synopses of the top 100 films of all time (per an IMDB list). See this resource(http://www.brandonrose.org/top100) for a more detailed information on the example. This guide covers:
 
 <ul>
 <li> tokenizing and stemming each synopsis
